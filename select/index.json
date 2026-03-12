@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Hollywood Action",
+  "base_artist": "BOYNEXTDOOR",
+  "createdAt": "2026-03-12T09:20:15.766838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hollywood Action",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/01_Hollywood_Action_BOYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hollywood Action (Paused)",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/02_Hollywood_Action_(Paused)_BOYNEXTDOOR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hollywood Action",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/pl_01_Hollywood_Action_BOYNEXTDOOR.txt"
+    }
+  ]
+}
